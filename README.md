@@ -1,4 +1,22 @@
 I made a path finding app which can find best optimized path near best for you to travel I used Graph and DP. Integerated user sesssion features and CRUD operations for a user account.
+Application to find bus routes in bangalore from Source A to B
+
+Install pckages that are globally used in this project
+
+run "npm init"
+expressjs
+mongodb
+turfjs
+cookie-parser
+body-parser
+These packages will be used by Nodejs
+
+In /frontend file
+
+create a react app and paste src file
+npm i react-map-gl
+npm i react router dom
+npm i axios
 
 User session functionality
 ![image](https://github.com/ShubhamMishra6862/QuickTrip/assets/101014691/57b8d245-add3-4d5e-840c-75d056e06b8b)
