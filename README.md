@@ -11,7 +11,7 @@ The Main part
 Algorithm searches the best path according to the travel time 
 and suggest those path
 ![image](https://github.com/ShubhamMishra6862/QuickTrip/assets/101014691/f9d321b8-e0cb-4bce-90a3-c3c8682e9768)
-{bullet} Suggestion
+Suggestion<br>
 ![image](https://github.com/ShubhamMishra6862/QuickTrip/assets/101014691/636da1cc-3ff6-42cb-88c5-b220e58373df)
   
 User can book trip for that path and he will be assigned a token for easy travel and the travel history will get stored in the database
